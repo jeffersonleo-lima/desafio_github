@@ -1,2 +1,5 @@
-# repositorio do desafio de projeto em git/github da dio.me
-bootcamp. desafio de projeto github
+# Projeto em git/github plataforma DIO.me
+repositorito criado para o desafio git/github
+
+##Links uteis
+[sintaxi basica markdown](https://www.markdownguide.org/basic-syntax)
